@@ -1,0 +1,4 @@
+Data from:
+
+M. Sehri, P. Dumond, and M. Bouchard, “University of Ottawa constant load and speed rolling-element bearing vibration and acoustic fault signature datasets,” Data in Brief, vol. 49, p. 109327, Aug. 2023, doi: 10.1016/j.dib.2023.109327.
+https://www.sciencedirect.com/science/article/pii/S2352340923004456
